@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: cs2-fps-optimizer, cs2, fps, optimizer, config, pro, boost, gaming-tools, performance, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+cs2 fps optimizer config pro boost gaming-tools performance cs2-config-tool cs2-perf-suite cs2-fps-optimizer windows portable prebuilt x64 free download
+related: cs2, fps, optimizer, config, pro, boost, gaming-tools, performance
